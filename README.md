@@ -1,5 +1,5 @@
 # PR-Project
-                                                            Sign Language Alphabet Recognition using ANN and CNN
+                                  Sign Language Alphabet Recognition using ANN and CNN
 1. Motivation
 American Sign Language (ASL) is a natural language with the same linguistic characteristics as spoken languages, with grammar that is different from the English language. Movements of the hands and face show ASL. It is the primary language of many North Americans who are deaf and have difficulty hearing and is used by some hearing people. It plays an essential role in the life of people who have impaired hearing and speaking inabilities. American Sign Language (ASL) alphabet recognition with computer vision is a very challenging task because of the complexity in ASL signs, high inter-class similarities, constant occlusions, and large intraclass variations. Sign language recognition will make communication more comfortable if one person is not well-versed with the language.
 Problem Statement
